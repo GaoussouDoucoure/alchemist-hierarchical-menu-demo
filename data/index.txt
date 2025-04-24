@@ -1,0 +1,4 @@
+p - Potions
+s - Spells
+m - Materials
+x - Exit

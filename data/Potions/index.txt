@@ -1,0 +1,3 @@
+h - Healing
+p - Poison
+x - eXit
